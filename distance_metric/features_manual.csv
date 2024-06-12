@@ -1,0 +1,10 @@
+Language,Word order,Noun-adjective,Alignment,Affixing,Pronomial subject,# genders
+eng,SVO,AN,ACC,SUF,Obligatory pronouns in subject position,3
+cck,SOV,,ERG,EQUAL,Subject affixes on verb,0
+kti,OVS,,SPLIT,,,
+nor,SVO,AN,ACC,SUF,Obligatory pronouns in subject position,3
+bsq,SOV,NA,ERG,EQUAL,Subject affixes on verb,0
+bla,free,AN,DIR-INV,PRE,Subject clitics on variable host,
+lui,free,NA,ACC,SUF,,
+wam,free,AN,SPLIT,SUF,Subject pronouns in different position,4
+dyi,OSV,NA,SPLIT,SUF,Obligatory pronouns in subject position,4
